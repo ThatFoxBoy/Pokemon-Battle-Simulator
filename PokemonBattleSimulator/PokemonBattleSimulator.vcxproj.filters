@@ -18,12 +18,12 @@
     <ClCompile Include="PokemonBattleSimulator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BasePokemon.cpp">
+    <ClCompile Include="Pokemon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BasePokemon.h">
+    <ClInclude Include="Pokemon.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

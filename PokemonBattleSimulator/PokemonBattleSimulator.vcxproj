@@ -139,11 +139,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BasePokemon.cpp" />
+    <ClCompile Include="Pokemon.cpp" />
     <ClCompile Include="PokemonBattleSimulator.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BasePokemon.h" />
+    <ClInclude Include="Pokemon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
